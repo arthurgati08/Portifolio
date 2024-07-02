@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(2, 74, 102);
+    margin: 0;
+    padding: 0;
+}
+
+.me {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+.titulo {
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgb(46, 46, 53);
+
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.titulo h2 {
+    margin: 0;
+}
+
+.title {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title a {
+    margin: 2rem;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.title a img {
+    margin-right: 1rem;
+}
+
+.link {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+.S {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.pj2 {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.C {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.C0 {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.Co {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.SA {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.ma {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.proj {
+    display: list-item;
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.connhecimentos {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.htcss {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.prog {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.e {
+    font-family: "Jaro", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.main{
+    width: 100%;
+}
+
+.main div {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+}
+
+title .link {
+    text-decoration: none;
+    text-shadow: none;
+    font-size: 18px;
+    padding: 20px;
+    color: white;
+}
+
+.bg-white{
+    background-color: white !important;
+}
+.bg-white *{
+    color: rgb(2, 74, 102) !important;
+}
+
+.ct-links{
+    text-align: center;
+}
+
+::marker {
+    color: rgb(2, 74, 102);
+  }
